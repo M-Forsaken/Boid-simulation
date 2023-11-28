@@ -1,0 +1,7 @@
+Use GroupID to control the amount of a group
+Improve obstacle avoidance algorithm 
+(currently, if many obstacles are close to each other, boid tends to fail to avoid 
+=> check to make sure there are no obstacle ahead after change direction)
+Have sliders to control ForceFactors
+Add ability to save obstacle map
+Optimize using Spatial Hashing
